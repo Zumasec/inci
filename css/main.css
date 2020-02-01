@@ -1,0 +1,22 @@
+.navbar-logo{
+    width: 400px;
+    /* margin-bottom: 20px; */
+    /* margin-top: 20px; */
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 5px;
+}
+
+.carousel-inner {
+    max-height: 60vh;
+}
+
+.carousel-container{
+    padding: 50px;
+}
